@@ -103,7 +103,7 @@ The goal of this project is to investigate the predictors of divorce by analyzin
 ## Dataset
 The dataset used in this project is the Divorce Predictors Data Set from the UC Irvine Machine Learning Repository. It includes 170 responses to a questionnaire with 54 questions designed to assess various aspects of marital relationships. Each response is labeled with a class attribute indicating whether the respondent is from a couple that is divorced (1) or not divorced (0). The dataset is available at [UC Irvine Machine Learning Repository](https://archive-beta.ics.uci.edu/ml/datasets/divorce+predictors+data+set).
 
-### Technical Skills Used
+## Technical Skills Used
 The project employs a range of data mining techniques and tools, including:
 - **Python**: For data processing and analysis.
 - **Pandas**: For data manipulation and cleaning.
@@ -111,7 +111,7 @@ The project employs a range of data mining techniques and tools, including:
 - **Matplotlib**: For visualizing the results of the data analysis.
 - **Agglomerative Clustering**: To identify patterns and group similar responses.
 
-#### Results and Observations
+## Results and Observations
 - **Data Grouping**: The dataset was divided into two groups based on the class attribute. Group 1 included responses from couples that are divorced, while Group 2 included responses from couples that are not divorced.
 - **Key Findings**: Analysis revealed that communication and intimacy issues were the most significant predictors of divorce. Group 1 showed a higher degree of dissatisfaction in these areas compared to Group 2.
 - **Clustering Effectiveness**: The use of agglomerative clustering effectively grouped responses and highlighted areas of agreement and disagreement among respondents. This method provided clear visualizations of the most common responses and their distribution.
