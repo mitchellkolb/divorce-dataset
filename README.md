@@ -86,9 +86,15 @@ This project was implemented on my windows laptop:
 - Clone this repository 
 - Open terminal at the codebase `~.../divorce-dataset/Project315Mk/`
 - Install the needed libraries:
-    -  ```bash pip install pandas numpy ```
-    -  ```bash python -m pip install -U matplotlib ```
-    -  ```bash pip install -U scikit-learn ```
+    ``` bash 
+    pip install pandas numpy 
+    ```
+    ```bash 
+    python -m pip install -U matplotlib 
+    ```
+    ```bash 
+    pip install -U scikit-learn 
+    ```
 - Run `project315.py` and check the results.txt for the output
 
 
